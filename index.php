@@ -4,9 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
     <title>Convert To JSON Online</title>
 </head>
 <body>
+<nav class="navbar navbar-default">
+		<div class="container-fluid">
+		</div>
+</nav>
 <div class="col-md-3"></div>
 	<div class="col-md-6 well">
 		<h3 class="text-primary">Convert String Value to JSON Object</h3>
